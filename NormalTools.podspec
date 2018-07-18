@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name         = 'QKNormalTools'
+s.name         = 'NormalTools'
 s.version      = '1.0.0'
 s.summary      = '工具类'
 s.homepage     = 'https://github.com/iOSAppdevte/NormalTools'
